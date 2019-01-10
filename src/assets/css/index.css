@@ -1,0 +1,25 @@
+#root{
+  height: 100%;
+  font-family: Montserrat, sans-serif;
+}
+
+.nav-link{
+  color:black;
+  font-weight: bold;
+}
+.nav-item{
+  background:black;
+}
+.nav-link{
+  color:orange;
+}
+a:hover{
+  color:white !important;
+}
+.nav-link.active{
+  background:orange !important;
+  border-radius: inherit !important;
+}
+.tab-content,.tab-pane{
+  width:100%;
+}
